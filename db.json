@@ -1,46 +1,22 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
+      "name": "Chinese Money Plant",
+      "image": "https://www.linlininteriors.com/wp-content/uploads/2019/06/WeChat-Image_20190608175006.jpg",
+      "price": 5,
+      "id": 8
     },
     {
-      "id": 2,
-      "name": "ZZ Plant",
-      "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "name": "Golden Pothos",
+      "image": "https://www.linlininteriors.com/wp-content/uploads/2019/06/WeChat-Image_20190608175754-1024x683.jpg",
+      "price": 5.04,
+      "id": 9
     },
     {
-      "id": 3,
-      "name": "Pilea peperomioides",
-      "image": "./images/pilea.jpg",
-      "price": 5.99
-    },
-    {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
-    },
-    {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
-    },
-    {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
-    },
-    {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "Dracaena",
+      "image": "https://www.linlininteriors.com/wp-content/uploads/2019/06/WeChat-Image_20190608174955-683x1024.jpg",
+      "price": 25.12,
+      "id": 10
     }
   ]
 }
